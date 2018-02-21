@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7A1EA1</color>
+    <color name="colorPrimaryDark">#691a99</color>
+    <color name="colorAccent">#01fb80</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="redPrimary">#d32f2f</color>
+    <color name="redPrimaryDark">#b71c1c</color>
+    <color name="blueAccent">#01579b</color>
+
+    <color name="pinkPrimary">#ec407a</color>
+    <color name="pinkPrimaryDark">#e91e63</color>
+
+    <color name="purplePrimary">#512da8</color>
+    <color name="purplePrimaryDark">#311b92</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
